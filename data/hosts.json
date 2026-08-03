@@ -1,0 +1,58 @@
+{
+  "Advertising": {
+    "Google Ads": [
+      "doubleclick.net",
+      "googlesyndication.com",
+      "googleadservices.com",
+      "adservice.google.com",
+      "pagead2.googlesyndication.com",
+      "tpc.googlesyndication.com"
+    ],
+    "Facebook Ads": [
+      "an.facebook.com",
+      "connect.facebook.net",
+      "graph.facebook.com"
+    ],
+    "Amazon Ads": [
+      "aax.amazon-adsystem.com",
+      "c.amazon-adsystem.com",
+      "fls-na.amazon-adsystem.com"
+    ],
+    "General Ad Networks": [
+      "ads.yahoo.com",
+      "adnxs.com",
+      "rubiconproject.com",
+      "openx.net",
+      "pubmatic.com",
+      "criteo.com",
+      "criteo.net",
+      "serving-sys.com",
+      "smartadserver.com",
+      "yieldlab.net",
+      "adsrvr.org",
+      "casalemedia.com",
+      "sharethrough.com",
+      "sovrn.com",
+      "lijit.com",
+      "taboola.com",
+      "trc.taboola.com",
+      "cdn.taboola.com",
+      "outbrain.com",
+      "zemanta.com",
+      "mediavine.com",
+      "exponential.com",
+      "undertone.com",
+      "33across.com",
+      "appnexus.com",
+      "bidswitch.net"
+    ]
+  },
+  "Analytics": {
+    "Google Analytics": [
+      "google-analytics.com",
+      "analytics.google.com",
+      "ssl.google-analytics.com",
+      "www.google-analytics.com"
+    ],
+    "Other Analytics": [
+      "hotjar.co
