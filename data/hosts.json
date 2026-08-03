@@ -10,8 +10,7 @@
     ],
     "Facebook Ads": [
       "an.facebook.com",
-      "connect.facebook.net",
-      "graph.facebook.com"
+      "connect.facebook.net"
     ],
     "Amazon Ads": [
       "aax.amazon-adsystem.com",
@@ -55,4 +54,117 @@
       "www.google-analytics.com"
     ],
     "Other Analytics": [
-      "hotjar.co
+      "hotjar.com",
+      "static.hotjar.com",
+      "script.hotjar.com",
+      "mouseflow.com",
+      "luckyorange.com",
+      "fullstory.com",
+      "mixpanel.com",
+      "segment.io",
+      "segment.com",
+      "amplitude.com",
+      "cdn.amplitude.com",
+      "heap.io",
+      "heapanalytics.com",
+      "clarity.ms",
+      "clarity.ms",
+      "loggly.com",
+      "bugsnag.com",
+      "sentry.io",
+      "browser.sentry-cdn.com"
+    ],
+    "Marketing Analytics": [
+      "kissmetrics.com",
+      "optimizely.com",
+      "omtrdc.net",
+      "2o7.net",
+      "demdex.net",
+      "marketo.net",
+      "mktoresp.com",
+      "bizible.com"
+    ]
+  },
+  "Trackers": {
+    "Social Trackers": [
+      "facebook.com",
+      "pixel.facebook.com",
+      "staticxx.facebook.com",
+      "twitter.com",
+      "platform.twitter.com",
+      "ads-twitter.com",
+      "t.co",
+      "platform.linkedin.com",
+      "snap.licdn.com",
+      "px.ads.linkedin.com",
+      "tr.snapchat.com",
+      "sc-static.net"
+    ],
+    "Cross-site Trackers": [
+      "scorecardresearch.com",
+      "chartbeat.com",
+      "chartbeat.net",
+      "comscore.com",
+      "nexac.com",
+      "bluekai.com",
+      "krxd.net",
+      "exelate.com",
+      "exelator.com",
+      "adtech.de",
+      "mathtag.com",
+      "mediaplex.com",
+      "rlcdn.com"
+    ],
+    "Email Trackers": [
+      "mailchimp.com",
+      "list-manage.com",
+      "sendgrid.net",
+      "sendgrid.com",
+      "mailgun.org",
+      "constantcontact.com"
+    ]
+  },
+  "Social": {
+    "Social Widgets": [
+      "platform.instagram.com",
+      "instagram.com",
+      "pinterest.com",
+      "widgets.pinterest.com",
+      "assets.pinterest.com",
+      "reddit.com",
+      "www.redditstatic.com",
+      "tiktok.com",
+      "www.tiktok.com",
+      "vm.tiktok.com"
+    ],
+    "Share Buttons": [
+      "sharethis.com",
+      "s7.addthis.com",
+      "addthis.com",
+      "addthisedge.com",
+      "shareaholic.com"
+    ]
+  },
+  "OEM & Telemetry": {
+    "Microsoft Telemetry": [
+      "vortex.data.microsoft.com",
+      "settings-win.data.microsoft.com",
+      "telemetry.microsoft.com",
+      "watson.telemetry.microsoft.com",
+      "oca.telemetry.microsoft.com"
+    ],
+    "Apple Telemetry": [
+      "metrics.apple.com",
+      "iadsdk.apple.com",
+      "radarsubmissions.apple.com"
+    ],
+    "App Telemetry": [
+      "data.flurry.com",
+      "crash.flurry.com",
+      "log.flurry.com",
+      "stats.adobe.com",
+      "b.stats.opera.com",
+      "browser.yandex.com"
+    ]
+  }
+}
